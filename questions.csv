@@ -1,0 +1,46 @@
+id,subject,chapter,question,option_a,option_b,option_c,option_d,correct_answer,explanation,difficulty
+1,Physics,Mechanics,A body thrown vertically upward with velocity 20 m/s. Maximum height reached (g=10 m/s2),10 m,20 m,30 m,40 m,B,Using v2=u2-2gh: 0=400-20h so h=20m,Medium
+2,Physics,Mechanics,The unit of impulse is same as that of,Force,Work,Momentum,Power,C,Impulse = Force x time = kg.m/s which equals momentum,Easy
+3,Physics,Thermodynamics,In an adiabatic process,Heat is transferred,Work done is zero,Internal energy changes,Temperature remains constant,C,In adiabatic process Q=0 so change in U = -W meaning internal energy changes,Medium
+4,Physics,Waves,Frequency of a tuning fork is 256 Hz. Wavelength of sound in air at v=340 m/s is,1.328 m,1.428 m,1.528 m,1.628 m,A,Wavelength = v divided by f = 340 divided by 256 = 1.328 m,Easy
+5,Physics,Electrostatics,Electric field inside a conductor in electrostatic equilibrium is,Maximum,Minimum,Zero,Infinite,C,In electrostatic equilibrium charges reside on surface and field inside is zero,Easy
+6,Physics,Optics,A convex lens of focal length 20 cm forms real image at 60 cm. Object distance is,30 cm,15 cm,40 cm,20 cm,A,Using lens formula 1/f=1/v-1/u gives u=-30 cm,Medium
+7,Physics,Modern Physics,Energy of a photon of wavelength 600 nm approximately (h=6.6x10-34),2.07 eV,3.10 eV,1.50 eV,4.20 eV,A,E=hc/lambda = 3.3x10-19 J = 2.07 eV,Hard
+8,Physics,Magnetism,The SI unit of magnetic flux density is,Tesla,Weber,Gauss,Oersted,A,Magnetic flux density B is measured in Tesla in SI system,Easy
+9,Physics,Current Electricity,Three resistors 2 ohm 3 ohm and 6 ohm connected in parallel. Equivalent resistance is,1 ohm,2 ohm,3 ohm,6 ohm,A,1/R = 1/2+1/3+1/6 = 1 so R = 1 ohm,Medium
+10,Physics,Mechanics,A projectile fired at 30 degrees to horizontal. Range is maximum at angle,30 degrees,45 degrees,60 degrees,90 degrees,B,Range R=u2sin2theta/g is maximum when theta=45 degrees,Easy
+11,Physics,Gravitation,Escape velocity from Earth surface is approximately,7.9 km/s,11.2 km/s,15.6 km/s,3.8 km/s,B,Escape velocity = sqrt(2GM/R) = 11.2 km/s for Earth,Easy
+12,Physics,Semiconductors,The forbidden energy gap in a conductor is approximately,0 eV,1 eV,3 eV,5 eV,A,Conductors have overlapping bands so energy gap is approximately 0 eV,Easy
+13,Physics,Fluid Mechanics,According to Bernoullis theorem as velocity increases pressure,Increases,Decreases,Remains same,Unpredictable,B,Bernoulli equation: P + 0.5*rho*v2 = constant so as v increases P decreases,Medium
+14,Physics,Mechanics,A ball rolls without slipping. Ratio of translational KE to total KE for solid sphere is,3/5,5/7,2/7,7/5,B,For solid sphere I=2mr2/5 so ratio = mv2 divided by (mv2 + Iw2) = 5/7,Hard
+15,Physics,Thermodynamics,Efficiency of a Carnot engine between 500K and 300K is,30%,40%,50%,60%,B,Efficiency = 1 - T2/T1 = 1 - 300/500 = 0.4 = 40 percent,Medium
+16,Chemistry,Atomic Structure,The number of protons in nucleus of an atom determines its,Mass number,Atomic number,Neutron number,Isotope number,B,Atomic number Z = number of protons which uniquely identifies an element,Easy
+17,Chemistry,Chemical Bonding,Which of the following has maximum bond angle,H2O,NH3,BF3,CH4,C,BF3 has sp2 hybridization with bond angle 120 degrees which is maximum,Medium
+18,Chemistry,Equilibrium,At equilibrium the rate of forward reaction is,Greater than reverse,Less than reverse,Equal to reverse,Zero,C,At chemical equilibrium forward and reverse reaction rates are equal,Easy
+19,Chemistry,Thermodynamics,For a spontaneous process at constant T and P,dG greater than zero,dG equals zero,dG less than zero,dH greater than zero,C,A process is spontaneous when Gibbs free energy change is less than zero,Medium
+20,Chemistry,Electrochemistry,The standard electrode potential of hydrogen electrode is,+1 V,-1 V,0 V,+0.5 V,C,By convention the standard hydrogen electrode SHE is assigned E = 0 V,Easy
+21,Chemistry,Organic Chemistry,The IUPAC name of CH3-CH2-OH is,Methanol,Ethanol,Propanol,Butanol,B,CH3CH2OH has 2 carbons with OH group so it is Ethanol,Easy
+22,Chemistry,Periodic Table,Which element has the highest electronegativity,Oxygen,Nitrogen,Chlorine,Fluorine,D,Fluorine has the highest electronegativity of 3.98 on Pauling scale,Easy
+23,Chemistry,Solutions,The osmotic pressure of a solution depends on,Temperature only,Concentration only,Both temperature and concentration,Neither,C,Osmotic pressure = CRT where C is molarity R is gas constant T is temperature,Medium
+24,Chemistry,Acids and Bases,The pH of 0.001 M HCl solution is,1,2,3,4,C,HCl is strong acid: H+ = 0.001 = 10 to -3 so pH = 3,Easy
+25,Chemistry,Chemical Kinetics,The unit of rate constant for first order reaction is,mol per L.s,per second,L per mol.s,mol2 per L2.s,B,For first order: rate=k[A] so k=rate/[A] has units per second,Medium
+26,Chemistry,Atomic Structure,Energy of electron in 2nd orbit of hydrogen atom is,-1.51 eV,-3.40 eV,-13.6 eV,-6.8 eV,B,E = -13.6 divided by n2 = -13.6 divided by 4 = -3.40 eV,Medium
+27,Chemistry,p-Block Elements,Which noble gas is used in advertising signs,Neon,Argon,Krypton,Xenon,A,Neon gas emits red-orange glow when electrically excited and is used in signs,Easy
+28,Chemistry,s-Block Elements,Which metal is stored under kerosene oil,Sodium,Magnesium,Calcium,Aluminium,A,Sodium reacts violently with water and air so it is stored in kerosene oil,Easy
+29,Chemistry,Coordination Chemistry,The coordination number of Fe in hexacyanoferrate complex is,4,5,6,8,C,Fe is surrounded by 6 CN- ligands so coordination number is 6,Medium
+30,Chemistry,Organic Chemistry,Hybridization of carbon in ethylene C2H4 is,sp3,sp2,sp,dsp2,B,Carbon in C=C double bond uses sp2 hybridization giving planar structure,Medium
+31,Mathematics,Algebra,The roots of x2 - 5x + 6 = 0 are,2 and 3,1 and 6,2 and 4,3 and 4,A,Factoring: x2-5x+6 = (x-2)(x-3) = 0 gives x=2 or x=3,Easy
+32,Mathematics,Trigonometry,The value of sin squared theta plus cos squared theta equals,0,1,2,-1,B,This is the fundamental Pythagorean identity and always equals 1,Easy
+33,Mathematics,Calculus,The derivative of sin(x) with respect to x is,cos(x),-cos(x),sin(x),-sin(x),A,d/dx of sin x = cos x by standard differentiation rule,Easy
+34,Mathematics,Vectors,The dot product of two perpendicular vectors is,0,1,-1,Infinity,A,For perpendicular vectors angle=90 degrees so A.B=|A||B|cos90=0,Easy
+35,Mathematics,Matrices,The determinant of a 2x2 identity matrix is,0,1,2,-1,B,det of identity matrix = 1x1 - 0x0 = 1,Easy
+36,Mathematics,Probability,A coin is tossed twice. Probability of getting both heads is,1/2,1/4,1/3,3/4,B,P(HH) = P(H) times P(H) = 1/2 times 1/2 = 1/4,Easy
+37,Mathematics,Coordinate Geometry,"Distance between point A(3 units right and 4 units up) and origin O(0,0) is",3 units,4 units,5 units,7 units,C,d = sqrt(32 + 42) = sqrt(9+16) = sqrt(25) = 5 units,Easy
+38,Mathematics,Calculus,The integral of x dx equals,x squared,x squared over 2 plus C,2x,x over 2,B,Integral of x dx = x2/2 + C using power rule,Easy
+39,Mathematics,Algebra,If log base 2 of x equals 3 then x equals,6,8,9,12,B,log2(x)=3 means 2 raised to 3 = x so x = 8,Easy
+40,Mathematics,Permutations,The value of 5P3 is,60,30,20,15,A,5P3 = 5 factorial divided by (5-3) factorial = 120 divided by 2 = 60,Medium
+41,Mathematics,Binomial Theorem,Number of terms in expansion of (a+b) to the power 10 is,9,10,11,12,C,Number of terms in (a+b)^n equals n+1 = 10+1 = 11,Easy
+42,Mathematics,Complex Numbers,The modulus of complex number 3 + 4i is,5,7,4,3,A,Modulus = sqrt(32 + 42) = sqrt(9+16) = sqrt(25) = 5,Easy
+43,Mathematics,Calculus,Limit of sin(x) divided by x as x approaches 0 equals,0,Infinity,1,-1,C,This is a standard limit: limit of sinx/x as x->0 equals 1,Medium
+44,Mathematics,Algebra,Sum of first 10 natural numbers is,45,55,50,60,B,S = n(n+1)/2 = 10 times 11 divided by 2 = 55,Easy
+45,Physics,Optics,Critical angle for total internal reflection depends on,Wavelength only,Refractive index only,Both wavelength and refractive index,Neither,C,Critical angle C satisfies sin C = 1/mu where mu is refractive index which varies with wavelength,Hard

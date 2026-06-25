@@ -1,0 +1,7 @@
+username,question_id,subject,chapter,date_attempted,student_answer,correct_answer,bookmarked
+ravi_kumar,7,Physics,Modern Physics,2024-01-20,B,A,True
+ravi_kumar,14,Physics,Mechanics,2024-01-23,C,B,False
+priya_sharma,29,Chemistry,Coordination Chemistry,2024-01-22,B,C,True
+arjun_reddy,43,Mathematics,Calculus,2024-01-21,B,C,False
+kiran_babu,5,Physics,Electrostatics,2024-01-20,A,C,True
+kiran_babu,18,Chemistry,Equilibrium,2024-01-20,A,C,False

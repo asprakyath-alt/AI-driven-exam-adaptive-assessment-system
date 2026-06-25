@@ -1,0 +1,5 @@
+challenge_id,title,subject,created_by,created_date,start_time,duration_minutes,status,max_participants
+1,Physics Speed Challenge,Physics,admin,2024-01-25,2024-01-25 14:00:00,30,completed,50
+2,Math Marathon,Mathematics,admin,2024-01-26,2024-01-26 16:00:00,45,completed,50
+3,Chemistry Quiz Battle,Chemistry,admin,2024-01-28,2024-01-28 15:00:00,20,active,50
+4,Full EAMCET Mock,All,admin,2024-01-30,2024-01-30 10:00:00,180,upcoming,100

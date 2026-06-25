@@ -1,0 +1,7 @@
+username,password,name,email,role,joined_date
+admin,admin123,Administrator,admin@eduprepro.com,admin,2024-01-01
+ravi_kumar,pass123,Ravi Kumar,ravi@email.com,student,2024-01-15
+priya_sharma,pass123,Priya Sharma,priya@email.com,student,2024-01-16
+arjun_reddy,pass123,Arjun Reddy,arjun@email.com,student,2024-01-17
+sneha_patel,pass123,Sneha Patel,sneha@email.com,student,2024-01-18
+kiran_babu,pass123,Kiran Babu,kiran@email.com,student,2024-01-19

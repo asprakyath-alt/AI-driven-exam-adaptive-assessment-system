@@ -1,0 +1,9 @@
+challenge_id,username,score,time_taken,rank,date,subject,correct,incorrect,unattempted
+1,arjun_reddy,85,28,1,2024-01-25,Physics,0,0,0
+1,ravi_kumar,72,30,2,2024-01-25,Physics,0,0,0
+1,priya_sharma,68,29,3,2024-01-25,Physics,0,0,0
+1,sneha_patel,55,30,4,2024-01-25,Physics,0,0,0
+2,priya_sharma,90,40,1,2024-01-26,Physics,0,0,0
+2,arjun_reddy,88,42,2,2024-01-26,Physics,0,0,0
+2,ravi_kumar,75,45,3,2024-01-26,Physics,0,0,0
+2,kiran_babu,50,44,4,2024-01-26,Physics,0,0,0
